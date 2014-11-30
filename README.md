@@ -1,4 +1,4 @@
-# Freifunk Gateway Module
+# Origin: Freifunk Gateway Module
 
 * Martin Schütte <info@mschuette.name>
 * Daniel Ehlers <danielehlers@mindeye.net>
